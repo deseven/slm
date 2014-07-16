@@ -1,0 +1,6 @@
+1.0.1 (build 14)
++ additional file checks
+* bugfixes
+
+1.0.0
+* first version

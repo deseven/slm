@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project xmlns="http://www.purebasic.com/namespace" version="1.0" creator="PureBasic 4.51 (MacOS X - x86)">
+  <section name="config">
+    <options closefiles="1" openmode="0" name="Sins Localization Merger"/>
+  </section>
+  <section name="data">
+    <explorer view="" pattern="0"/>
+    <log show="1"/>
+    <lastopen date="2011-11-02 02:41" user="deseven" host="MacBook-Air-deseven.local"/>
+  </section>
+  <section name="files">
+    <file name="slm.pb">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="1"/>
+      <fingerprint md5="a835e79c666ec344a6f67a88a9670912"/>
+    </file>
+  </section>
+  <section name="targets">
+    <target name="Default Target" enabled="1" default="1">
+      <inputfile value="slm.pb"/>
+      <outputfile value="build\slm.exe"/>
+      <executable value="build\slm.exe"/>
+      <options unicode="1" xpskin="1"/>
+      <versioninfo enable="1">
+        <field0 value="1.0.1.14"/>
+        <field1 value="1.0.1.14"/>
+        <field2 value="Solution"/>
+        <field3 value="Sins Loc Merger"/>
+        <field4 value="1.0"/>
+        <field5 value="1.0.1.14"/>
+        <field6 value="Localization Merger for SoaSE"/>
+        <field7 value="SLM"/>
+        <field8 value="slm.exe"/>
+        <field9 value="deseven, 2011"/>
+      </versioninfo>
+    </target>
+  </section>
+</project>
